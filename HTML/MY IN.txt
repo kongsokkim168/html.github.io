@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<titel>Hello my clssamtes</titel>
+<h1 style="color:pink;"> my birthday </h1>
+<h3> my topie schedule in the morning <h3>
+<p> I go to school in the morning</p><be>
+1: I study in the unestily of cambodia<br>
+</head>
+</html>
